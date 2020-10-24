@@ -34,7 +34,6 @@ namespace ServiceMtk_P1_116
             get { return _x; }
             set { _x = value; }
         }
-        
         public int Y //properties
         {
             get { return _y; }
